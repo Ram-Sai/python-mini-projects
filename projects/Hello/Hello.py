@@ -1,3 +1,3 @@
 # This is simple program to show how print statement works
 
-print('Hello Python World, ver 1')
+print('Hello Python World, ver 2')
